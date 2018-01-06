@@ -4,3 +4,6 @@
 [submodule "concorde-react-native"]
 	path = concorde-react-native
 	url = https://github.com/mirceadino/concorde-react-native
+[submodule "concorde-server"]
+	path = concorde-server
+	url = https://github.com/mirceadino/concorde-server
